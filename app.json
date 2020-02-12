@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "MyCharacter",
+    "slug": "my-character",
+    "sdkVersion": "33.0.0",
+    "privacy": "public"
+  }
+}
